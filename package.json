@@ -1,7 +1,7 @@
 {
-  "name": "aula13-banco-borges",
+  "name": "aula14-banco-borges",
   "version": "1.0.0",
-  "description": "Aula 13 da trilha de backend avançado da Gama, XP 44. Demonstração de como trabalhar com o mongoose.",
+  "description": "Aula 14 da trilha de backend avançado da Gama, XP 44. Demonstração de como trabalhar com o Heroku.",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "gama",
-    "aula06",
+    "aula14",
     "clean",
     "arquiteture",
     "ddd",
